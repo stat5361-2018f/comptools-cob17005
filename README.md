@@ -7,3 +7,4 @@ I encountered a couple of challenges in my quest to get the PDF file on a Window
 >>>>>>> 4c4d0fc638f78f2e227f8ee6a6fc3d07b0a1a677
 "# cauchy-cob17005" 
 "# arithm-cob17005" 
+"# cauchy-cob17005" 
